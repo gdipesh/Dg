@@ -41,6 +41,7 @@ nav ul li a {
 	font-size:17px;
 	border-radius:3px;
 	padding:7px 13px;
+	text-decoration: none;
 	text-transform:uppercase;
 
 }
