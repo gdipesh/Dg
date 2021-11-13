@@ -1,12 +1,18 @@
 *{
+	box-sizing:border-box;
 	margin:0;
 	padding:0;
 	text-decoration:none;
 	list-style:none;
-	box-sizing:border-box;
 }
 body{
 	font-family:monospace;
+	
+		background-image:url("Nature.jpg") ;
+		background-size:cover;
+		background-repeat:no-repeat;
+		height:100vh;
+	
 }
 
 nav {
@@ -127,20 +133,7 @@ label.checkbtn {
 	}		
 	}
 		
-	section {
-		background-image:url("Nature.jpg") ;
-		background-size:cover;
-		background-repeat:no-repeat;
 	
-		height:100vh;
-		
-	
-		
-		
-
-
-
-	}
 	label span {
 		font-weight:bolder;
 		font-size:30px;
