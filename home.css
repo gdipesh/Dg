@@ -152,7 +152,12 @@ label.checkbtn {
 	
 	}
 	
-	
+	span{
+	  float: right;
+	  top: 0;
+	  right: 0;
+	  position: relative;
+	}
 	
 	/*for contact.html*/
 	
